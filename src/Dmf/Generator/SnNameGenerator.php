@@ -16,7 +16,7 @@
  * 
  * @link http://github.com/mouhamedfd
  */
-namespace Dmf\Generator;
+namespace Mouhamedfd\Generator;
 /**   
  * Class That generate Random Senegalese Name and FirstName
  * 
