@@ -983,10 +983,4 @@ class SnNameGenerator
     }
 
 }
-//use MOUHAMEDFD\GENERATOR\SnNameGenerator as SNMG;
-// for ($i=0; $i<20; $i++ ) {
-//     //echo SnNameGenerator::getName()."\n";
-//     echo SnNameGenerator::getFirstName()."\n";
-//    // echo SNMG::getName()." ".SNMG::getFirstName()."\n";
-// }
 ?>

@@ -1,0 +1,17 @@
+{
+    "name": "dmf/sn-name-generator",
+    "description": "Generate senegalese names and firstnames",
+    "type": "library",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Mouhamed Fadel DIAGANA",
+            "email": "mouhamedfd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+     "autoload": {
+        "psr-4": {"Dmf\\Generator\\": "src/"}
+    },
+    "require": {}
+}
