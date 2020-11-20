@@ -3,20 +3,20 @@
     "description": "Generate senegalese names and firstnames",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Mouhamed Fadel DIAGANA",
-            "email": "mouhamedfd@gmail.com"
-        }
-    ],
-      "config": {
+    "authors": [{
+        "name": "Mouhamed Fadel DIAGANA",
+        "email": "mouhamedfd@gmail.com"
+    }],
+    "config": {
         "sort-packages": true
     },
     "minimum-stability": "stable",
-     "autoload": {
+    "autoload": {
         "psr-4": {
             "Mouhamedfd\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^5.4 | ^7 | ^8"
+    }
 }
