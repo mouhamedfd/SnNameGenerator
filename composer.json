@@ -9,9 +9,14 @@
             "email": "mouhamedfd@gmail.com"
         }
     ],
+      "config": {
+        "sort-packages": true
+    },
     "minimum-stability": "stable",
      "autoload": {
-        "psr-4": {"Mouhamedfd\\Generator\\": "src/"}
+        "psr-4": {
+            "Mouhamedfd\\Generator\\": "src/Mouhamedfd/Generator"
+        }
     },
     "require": {}
 }
