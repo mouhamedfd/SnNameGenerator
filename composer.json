@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
      "autoload": {
         "psr-4": {
-            "Mouhamedfd\\Generator\\": "src/Mouhamedfd/Generator"
+            "Mouhamedfd\\Generator\\": "src/Mouhamedfd/Generator/"
         }
     },
     "require": {}
