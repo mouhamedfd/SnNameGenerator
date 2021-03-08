@@ -9,7 +9,7 @@ ___________________________________
 ```
 # Installation
 ```shell
- composer require composer require "mouhamedfd/sn-name-generator v1.01"
+ composer require composer require "mouhamedfd/sn-name-generator v1.02"
  ```
 
 # Code example
