@@ -20,4 +20,7 @@ use Mouhamedfd\Generator\SnNameGenerator as SnNmG;
 ```php
 $name=SnNmG::getName();
 $firstName=SnNmG::getFirstName();
+$firstName=SnNmG::getFirstName('male');
+$firstName=SnNmG::getFirstName('female');
+
 ```
