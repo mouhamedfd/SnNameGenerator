@@ -2140,7 +2140,7 @@ class SnNameGenerator
             $dimension = count(self::$manFirstNames);
             $random_index = random_int(0, (int)$dimension - 1);
             return self::$manFirstNames[$random_index];
-        } else if ($gender = 'female') {
+        } elseif ($gender == 'female') {
             $dimension = count(self::$womanFirstNames);
             $random_index = random_int(0, (int)$dimension - 1);
             return self::$womanFirstNames[$random_index];
